@@ -1,0 +1,2 @@
+module=http://localhost/cmi/web/web.py
+requirements=http://localhost/cmi/web/requirements.txt
