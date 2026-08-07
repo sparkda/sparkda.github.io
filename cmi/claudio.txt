@@ -1,2 +1,2 @@
-module=https://sparkda.github.io/cmi/claudio/claudio.py
-requirements=https://sparkda.github.io/cmi/claudio/requirements.txt
+module=http://sparkda.github.io/cmi/claudio/claudio.py
+requirements=http://sparkda.github.io/cmi/claudio/requirements.txt
