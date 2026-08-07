@@ -1,2 +1,2 @@
-module=http://localhost/cmi/gdi/gdi.py
-requirements=http://localhost/cmi/gdi/requirements.txt
+module=https://sparkda.github.io/cmi/gdi/gdi.py
+requirements=https://sparkda.github.io/cmi/gdi/requirements.txt
