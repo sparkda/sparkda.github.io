@@ -1,2 +1,0 @@
-module=http://localhost/cmi/claudio/claudio.py
-requirements=http://localhost/cmi/claudio/requirements.txt
