@@ -1,2 +1,2 @@
-module=http://localhost/cmi/web/web.py
-requirements=http://localhost/cmi/web/requirements.txt
+module=https://sparkda.github.io/cmi/web/web.py
+requirements=https://sparkda.github.io/cmi/web/requirements.txt
